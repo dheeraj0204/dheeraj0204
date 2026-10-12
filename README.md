@@ -2,9 +2,9 @@
 
 <!-- Phase 1: Interactive Animated Terminal Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/light.svg">
-  <img alt="Dheeraj Khetwal" src="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+  <img alt="Dheeraj Khetwal" src="./dark.svg" width="100%">
 </picture>
 
 <br/><br/>
@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<!-- Phase 2: Streak & Self-Hosted Stats Cards -->
+<!-- Phase 2: Streak & Stats Cards -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=dheeraj0204&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak Stats" />
 
 <br/>

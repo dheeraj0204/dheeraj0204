@@ -139,6 +139,31 @@ Core Focus: **AI/ML + Software Engineering + Agentic AI Architecture**.
 
 ---
 
+### 🧩 Autonomous Cube Solver
+
+> *Even my README solves complex multi-dimensional problems on its own.*
+
+<div align="center">
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/assets/rubiks-solver.gif" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/assets/rubiks-solver.gif" />
+      <img src="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/assets/rubiks-solver.gif" width="580" alt="Autonomous Self-Solving 3D Rubik's Cube" />
+    </picture>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/State-Autonomous_Solve-10B981?style=flat-square&logo=cube&logoColor=white" alt="State: Solved" />
+    <img src="https://img.shields.io/badge/Engine-Kociemba_2--Phase-22D3EE?style=flat-square&logo=atom&logoColor=white" alt="Engine" />
+    <img src="https://img.shields.io/badge/Search_Space-43_Quintillion_States-A78BFA?style=flat-square&logo=speedtest&logoColor=white" alt="Search Space" />
+    <img src="https://img.shields.io/badge/Execution-Sub--Second_Optimal-F59E0B?style=flat-square&logo=clock&logoColor=white" alt="Execution" />
+  </p>
+
+  <sub><b>SCRAMBLE</b> ➔ <b>AI HEURISTIC SEARCH</b> ➔ <b>LAYER-BY-LAYER RESOLUTION</b> ➔ <b>OPTIMAL VERIFIED STATE</b></sub>
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 <table>

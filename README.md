@@ -31,11 +31,6 @@
 <!-- Phase 2: Streak & Stats Cards -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=dheeraj0204&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="GitHub Streak Stats" />
 
-<br/>
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dheeraj0204&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dheeraj0204&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="Top Languages" />
-
 <br/><br/>
 
 <!-- Phase 3: Contribution Snake Animation -->
@@ -62,52 +57,13 @@ Core Focus: **AI/ML + Software Engineering + Agentic AI Architecture**.
 ### ⚡ Engineering Impact
 *Data-driven telemetry across production platforms, research systems, and community initiatives.*
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #22D3EE;">10,000+</h2>
-      <b>Concurrent Users</b><br/>
-      <sub>eHRMS Platform Scale</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #10B981;">99.5%</h2>
-      <b>Uptime Reliability</b><br/>
-      <sub>Production Governance</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #A78BFA;">92%</h2>
-      <b>Anomaly Accuracy</b><br/>
-      <sub>Rail Suraksha Computer Vision</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #38BDF8;">60%</h2>
-      <b>Faster Resolution</b><br/>
-      <sub>AI NLP Query Pipeline</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #F59E0B;">5,000+</h2>
-      <b>Farmers Served</b><br/>
-      <sub>Kisan Saathi Multilingual AI</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #EC4899;">95%</h2>
-      <b>Satisfaction Rate</b><br/>
-      <sub>Agri-Tech User Validation</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #22D3EE;">5+</h2>
-      <b>AI/ML Models</b><br/>
-      <sub>85%+ Real-World Accuracy</sub>
-    </td>
-    <td align="center" width="25%">
-      <h2 style="margin: 0; color: #10B981;">5,000+</h2>
-      <b>Engineers Reached</b><br/>
-      <sub>4 Hackathons & 10+ Workshops</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/metrics.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/metrics.svg" />
+    <img alt="Engineering Impact Metrics" src="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/metrics.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 

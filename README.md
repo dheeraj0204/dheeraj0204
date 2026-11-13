@@ -1,10 +1,11 @@
 <div align="center">
 
 <!-- Phase 1: Interactive Animated Terminal Banner -->
-<<p align="center">
-  <img src="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/dark.svg#gh-dark-mode-only" width="100%" alt="Dheeraj Khetwal" />
-  <img src="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/light.svg#gh-light-mode-only" width="100%" alt="DHEERAJ KHETWAL.jpeg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/light.svg" />
+  <img alt="Dheeraj Khetwal" src="https://raw.githubusercontent.com/dheeraj0204/dheeraj0204/main/dark.svg" width="100%" />
+</picture>
 
 <br/><br/>
 
